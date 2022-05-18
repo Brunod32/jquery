@@ -1,0 +1,56 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+/* Chonomètre */
+.chrono {
+    width: auto;
+    height: 40px;
+}
+
+.timer {
+    text-align: center;
+}
+
+.btn_start {
+    border-radius: 25px;
+    background-color: darkcyan;
+    color: white;
+}
+
+.first {
+    width: 75px;
+    height: 75px;
+    background: url(img/smileys-emotion-00.png) 0 0;
+}
+
+.second {
+    width: 75px;
+    height: 75px;
+    background: url(img/smileys-emotion-00.png) -70px 0;
+}
+
+.third {
+    width: 75px;
+    height: 75px;
+    background: url(img/smileys-emotion-00.png) -142px 0;
+}
+
+.fourth {
+    width: 75px;
+    height: 75px;
+    background: url(img/smileys-emotion-00.png) -215px 0;
+}
+
+.border,
+.back {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 2px;
+}
+
+.back {
+    width: 75px;
+    height: 75px;
+}
